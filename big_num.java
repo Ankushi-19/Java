@@ -1,4 +1,4 @@
-//3.Write java program to print Biggest of 3 Numbers using Logical Operators.
+//3.Write java program to print Biggest of 3 Numbers using Logical Operators
 
 import java.io.*;
 import java.util.*;
