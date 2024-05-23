@@ -1,4 +1,4 @@
-//4.Write a java program to print first 10 numbers in Fibonacci series. Also print their sum.
+//4.Write a java program to print first 10 numbers in Fibonacci series. Also print their sum
 
 import java.io.*;
 import java.util.*;
